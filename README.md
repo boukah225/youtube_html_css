@@ -1,6 +1,6 @@
 # YouTube HTML/CSS
 
-Projet de reproduction de la page d'accueil de YouTube réalisé avec **HTML et CSS**.
+Projet de création d'une interface inspirée de la page d'accueil de YouTube, réalisé avec HTML et CSS.
 
 ## 🛠️ Technologies
 
